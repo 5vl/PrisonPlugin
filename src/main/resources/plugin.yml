@@ -1,0 +1,7 @@
+name: PrisonPlugin
+version: 1.0.0
+main: prisonplugin.prisonplugin.main
+api-version: 1.16
+authors: [ 5vl, IkeVoodoo, Semmieboy YT ]
+description: Prison Plugin
+website: https://github.com/5vl/PrisonPlugin
