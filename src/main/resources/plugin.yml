@@ -2,6 +2,16 @@ name: PrisonPlugin
 version: 1.0.0
 main: prisonplugin.prisonplugin.main
 api-version: 1.16
+load: STARTUP
 authors: [ 5vl, IkeVoodoo, Semmieboy YT ]
 description: Prison Plugin
 website: https://github.com/5vl/PrisonPlugin
+commands:
+  prison:
+    description: Main command for the plugin.
+  mine:
+    description: Set/edit mines!
+    aliases: [mines]
+  minereset:
+    description: Reset certain mines!
+    aliases: [mr] 
