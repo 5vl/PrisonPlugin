@@ -14,4 +14,4 @@ commands:
     aliases: [mines]
   minereset:
     description: Reset certain mines!
-    aliases: [mr] 
+    aliases: [mr]
